@@ -8,7 +8,7 @@
 .
 ├── VBA_Assignment
 │   ├── Images                    # This is where I stored the spreadsheets result images
-│   │   ├── first_sheet.png      # These are all the CSV documents
+│   │   ├── first_sheet.png    
 │   │   ├── second_sheet.png 
 │   │   ├── third_sheet.png
 │   └── ..                  
