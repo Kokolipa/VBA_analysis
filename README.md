@@ -7,7 +7,7 @@ The project includes a VBA solution I built to analyse generated stock market da
 ``` yml
 .
 ├── VBA_Assignment
-│   ├── Images                    # This is where I stored the spreadsheets result images
+│   ├── Images                          # This is where I stored the spreadsheets result images
 │   │   ├── first_sheet.png    
 │   │   ├── second_sheet.png 
 │   │   ├── third_sheet.png
@@ -16,7 +16,7 @@ The project includes a VBA solution I built to analyse generated stock market da
 │   |   ├── alphabetical_testing.xlsx.xlsm            
 │   |   ├── Multiple_year_stock_data.xlsm                    
 │   └── ...       
-|   ├── Stock_Classifier.vbs              # This is the VBA script             
+|   ├── Stock_Classifier.vbs            # This is the VBA script             
 |              
 |___README.md
 ``` 
