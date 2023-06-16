@@ -31,3 +31,5 @@ The VBA script iterates through each worksheet within a given workbook and provi
 In addition, the script creates a summary table that includes the following: 
 1. Greatest percentage increase and decrease from the **percentage difference column**.  
 2. Greatest total volume from the **total stock volume column**. 
+
+[first_sheet](/Users/galbeeir/Desktop/git/stock-analysis/VBA_Assignment/Images/first_sheet.png)
